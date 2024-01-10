@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yiming168
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on the snow
 - 📫 How to reach me Canada
 
