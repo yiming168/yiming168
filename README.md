@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yiming
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on the snow
-- 📫 How to reach me Canada
+- 📫 How to reach me Canada: yiming168@gmail.com
 
 <!---
 yiming168/yiming168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
