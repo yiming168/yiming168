@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yiming
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, python
 - 💞️ I’m looking to collaborate on the snow
 - 📫 How to reach me Canada: yiming168@gmail.com
 
